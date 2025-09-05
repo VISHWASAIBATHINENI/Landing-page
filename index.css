@@ -9,7 +9,7 @@
      line-height: 1em;
  }
  .image{
-     background-image:url(images/image4.png) ;
+     background-image:url(image4.png) ;
      min-height: 80%;
      position: relative;
      background-position: center;
@@ -50,3 +50,4 @@
      border-radius: 10px;
  }
  
+
